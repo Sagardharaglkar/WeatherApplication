@@ -8,12 +8,13 @@ This is a simple Weather Application built using **JSP** and **Servlets**. It fe
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](![image](https://github.com/user-attachments/assets/ded267a8-4844-476e-9f58-4f4cef4bfa0e)
-)
+![ssWeather1](https://github.com/user-attachments/assets/d0c1b42e-e239-40d4-9f1c-24df59b55cfd)
+
+
 
 ### Weather Result
-![Weather Result](![image](https://github.com/user-attachments/assets/61bff66d-67b8-4a00-aed1-c4d2d7a33f87)
-)
+![ssWeather2](https://github.com/user-attachments/assets/e8c2dc4a-5caa-44ad-8880-8f99c51d2fc9)
+
 
 ---
 
